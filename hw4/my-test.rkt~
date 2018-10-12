@@ -1,0 +1,10 @@
+#lang racket
+
+(require "hw4.rkt")
+
+(define seq-test1 (sequence 3 11 2))
+(define seq-test2 (sequence 3 8 3))
+(define seq-test3 (sequence 3 2 1))
+seq-test1
+seq-test2
+seq-test3
